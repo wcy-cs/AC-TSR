@@ -1,0 +1,5 @@
+{
+  "train_lr": "/data/zhwzhong/Data/DIV2K/DIV2K_train_LR_bicubic",
+  "train": "/data/zhwzhong/Data/DIV2K/DIV2K_train_HR",
+  "test": ""
+}
